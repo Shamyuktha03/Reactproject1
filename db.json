@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "username": "jane_doe",
+      "email": "jane@example.com",
+      "password": "password456"
+    },
+    {
+      "id": "cba7",
+      "username": "salman_khan",
+      "email": "salman@example.com",
+      "password": "example123"
+    },
+    {
+      "id": "ffb6",
+      "username": "lala",
+      "email": "lala@gg.cp",
+      "password": "1223"
+    },
+    {
+      "id": "3ae8",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "assword123"
+    }
+  ]
+}
